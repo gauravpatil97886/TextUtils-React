@@ -1,6 +1,7 @@
 {
-  "name": "my-app-practise",
+  "name": "my-app-practice",
   "version": "0.1.0",
+  "description": "A practice React app for deployment",
   "homepage": "https://gauravpatil97886.github.io/my-app-practise",
   "private": true,
   "dependencies": {
@@ -19,6 +20,8 @@
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build",
     "test": "react-scripts test",
     "eject": "react-scripts eject"
   },
