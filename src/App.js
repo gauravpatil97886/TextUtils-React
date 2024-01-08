@@ -10,6 +10,7 @@ function App() {
       <div className="container">
         <Textform heading="Enter the text" />
       </div>
+  
       <div className="push"></div>
       <MDBFooter bgColor='light' className='text-center text-lg-left'>
         <div className='text-center p-3' style={{ backgroundColor: 'rgba(0, 0, 0, 0.2)' }}>

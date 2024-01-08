@@ -18,7 +18,7 @@ export default function Navbar(props) {
               </a>
             </li>
             <li className="nav-item">
-              <a className="nav-link" href="/">
+              <a className="nav-link" href="/about.js">
                 <i className="bi bi-info-circle-fill me-1"></i> About
               </a>
             </li>
