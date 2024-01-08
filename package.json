@@ -2,7 +2,7 @@
   "name": "my-app-practice",
   "version": "0.1.0",
   "description": "A practice React app for deployment",
-  "homepage": "https://gauravpatil97886.github.io/my-app-practise",
+  "homepage": "https://github.com/gauravpatil97886/TextUtils-React/blob/main/public/index.html",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
